@@ -36,7 +36,9 @@ More info about dataset can be found here:
 ## Sample Looker Visualization
 <img src="Uber_Data_Analytics_-_Payment_Type_Distribution.png">
 
-1. Dashboard - https://lookerstudio.google.com/reporting/e9764425-6638-4eba-ac09-e9e3977c28fc
+This is a sample dashboard. Data analysts can create their own dashboards tailored to their specific use cases since the data is at an atomic level.
+
+See Sample Dashboard: https://lookerstudio.google.com/reporting/e9764425-6638-4eba-ac09-e9e3977c28fc
 
 ## Credits
 All of the credits belong to Darshil Parmar for inspiration and resource.
