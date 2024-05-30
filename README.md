@@ -5,7 +5,7 @@
 An end-to-end data engineering project using an Uber dataset that involves creating a dimensional model, performing ETL with a Mage Data Pipeline on a Google Cloud Compute instance, and utilizing BigQuery for SQL queries and visualizations through Looker.
 
 ## Architecture 
-<img src="Sequence diagram.jpg">
+<img src="Sequence diagram.png">
 
 ## Technology Used
 - Programming Language - Python
@@ -34,7 +34,7 @@ More info about dataset can be found here:
 
 
 ## Sample Looker Visualization
-<img src="Uber_Data_Analytics_-_Payment_Type_Distribution.pdf">
+<img src="Uber_Data_Analytics_-_Payment_Type_Distribution.png">
 
 1. Dashboard - https://lookerstudio.google.com/reporting/e9764425-6638-4eba-ac09-e9e3977c28fc
 
